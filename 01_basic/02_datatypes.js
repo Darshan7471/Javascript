@@ -19,7 +19,6 @@ let islogedIn = true
 6) undesfined
 7) symbol =>unique
 */
-
 // objects
 
 console.log(typeof undefined); // undefined
