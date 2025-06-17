@@ -18,5 +18,7 @@ let booleanIslogin = Boolean(islogin)
 console.log(booleanIslogin);
 
 // 1=> true , 0=> false
+// "" => fasle
+// "darshan" => true
 
 
